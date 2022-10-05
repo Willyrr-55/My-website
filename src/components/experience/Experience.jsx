@@ -16,28 +16,28 @@ function Experience() {
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small>Experienced</small>
+                <small>Middle</small>
               </div>
             </article>
             <article className="experience__details">
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small>Experienced</small>
+                <small>Middle-high</small>
               </div>
             </article>
             <article className="experience__details">
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small>Experienced</small>
+                <small>Middle-high</small>
               </div>
             </article>
             <article className="experience__details">
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>Angular</h4>
-                <small>Experienced</small>
+                <small>Middle</small>
               </div>
             </article>
             <article className="experience__details">
@@ -51,14 +51,14 @@ function Experience() {
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>Bootstrap</h4>
-                <small>Experienced</small>
+                <small>Middle-high</small>
               </div>
             </article>
             <article className="experience__details">
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>Angular Material</h4>
-                <small>Experienced</small>
+                <small>Middle</small>
               </div>
             </article>
           </div>
@@ -70,7 +70,7 @@ function Experience() {
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>Node JS</h4>
-                <small>Experienced</small>
+                <small>Middle</small>
               </div>
             </article>
             <article className="experience__details">
@@ -78,14 +78,14 @@ function Experience() {
               <div>
                 {" "}
                 <h4>Express</h4>
-                <small>Experienced</small>
+                <small>Middle</small>
               </div>
             </article>
             <article className="experience__details">
               <FaCheckSquare className="experience__details-icon" />
               <div>
                 <h4>Mongo DB</h4>
-                <small>Experienced</small>
+                <small>Middle</small>
               </div>
             </article>
             <article className="experience__details">
